@@ -9,15 +9,6 @@ package aplicacion.modelo.dominio;
  *
  * @author marii
  */
-public class Libro {
-    private int isbn;
-
-    public int getIsbn() {
-        return isbn;
-    }
-
-    public void setIsbn(int isbn) {
-        this.isbn = isbn;
-    }
+public class Usuario {
     
 }
